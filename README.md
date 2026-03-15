@@ -1,6 +1,6 @@
 ---
 
-# 🐲 RPG: Monster Repeller
+#  RPG: Monster Repeller
 ---
 
 ## 🎮 The Quest
@@ -16,17 +16,17 @@ You are the hero of a small town under siege. The townspeople are trapped, and o
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* ⚔️ **Dynamic Combat System:** Turn-based logic where player stats and weapon strength determine the outcome.
-* 💰 **In-Game Economy:** A store system to manage resources and upgrades.
-* 📊 **Real-time Stat Tracking:** Experience, Health, and Gold update instantly via DOM manipulation.
-* 🕹️ **Interactive UI:** State-dependent button controls that change functionality based on your location.
-* 🐉 **Boss Mechanics:** A challenging final encounter with unique health and damage scaling.
+* Dynamic Combat System: Turn-based logic where player stats and weapon strength determine the outcome.
+* In-Game Economy: A store system to manage resources and upgrades.
+* Real-time Stat Tracking: Experience, Health, and Gold update instantly via DOM manipulation.
+* Interactive UI: State-dependent button controls that change functionality based on your location.
+* Boss Mechanics: A challenging final encounter with unique health and damage scaling.
 
 ---
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 This project was built to master the "Background" logic of web applications:
 
@@ -37,7 +37,7 @@ This project was built to master the "Background" logic of web applications:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 dragon-repeller/
@@ -50,7 +50,7 @@ dragon-repeller/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Realm
 
@@ -66,7 +66,7 @@ Since this is a pure frontend project, no servers are required. Simply open `ind
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 * [ ] **Inventory System:** A visual grid to see collected items.
 * [ ] **Leveling Tree:** Choose specific skills (Strength vs. Agility) when gaining XP.
