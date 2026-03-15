@@ -1,9 +1,6 @@
 ---
 
 # 🐲 RPG: Monster Repeller
-
-A browser-based, retro-style Role Playing Game (RPG) built to demonstrate core JavaScript concepts. Journey through the town, sharpen your blade in the cave, and gather enough strength to face the ultimate challenge: **The Dragon.**
-
 ---
 
 ## 🎮 The Quest
